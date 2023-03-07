@@ -128,7 +128,7 @@ nav button {
 }
 
 .hero-section button:hover {
-    background-image: linear-gradient(to right,var(--Lime-Green), #87CEEB);
+    background-image: linear-gradient(to left,var(--Lime-Green), #87CEEB);
 }
 
 /* FEATURES SECTION */
